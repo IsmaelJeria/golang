@@ -1,5 +1,0 @@
-include:
-  # Import template CI/CD go  
-  - project: 'falabella-retail/txd/integrationsquadtxd/devops/template-gitlab-ci/template-go-gcp'
-    ref: master
-    file: '.gitlab-ci-template-go-gcp.yml'  
